@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaach&layout=compact&exclude_repo=CityPicker)](https://github.com/anuraghazra/github-readme-stats)
 
 淘宝店：[ LEON家居生活馆 （动漫摆件）]( https://shop238932691.taobao.com)
-
-![LEON](https://raw.githubusercontent.com/zaaach/imgbed/master/arts/leon_shop_qrcode.png)
